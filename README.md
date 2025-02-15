@@ -22,5 +22,5 @@
 </div>
 <picture>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![KJWGarden's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWGardeb&show_icons=true&theme=transparent)
 </picture>
