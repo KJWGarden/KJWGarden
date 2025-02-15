@@ -19,9 +19,6 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-</div>
-<div>
-  
 <picture>
 ![KJWGarden's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWGarden&show_icons=true&theme=transparent)
 </picture>
@@ -29,3 +26,5 @@
 <picture>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJWGarden&layout=compact)
 </picture>
+</div>
+  
