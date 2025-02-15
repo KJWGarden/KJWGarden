@@ -24,3 +24,6 @@
   
 ![KJWGarden's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWGarden&show_icons=true&theme=transparent)
 </picture>
+<picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJWGarden&layout=compact)
+</picture>
