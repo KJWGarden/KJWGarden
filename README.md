@@ -22,7 +22,6 @@
 </div>
 <picture>
 ![KJWGarden's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWGarden&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJWGarden&layout=compact)
 </picture>
 
 
