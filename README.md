@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 <div>  
-![KJWGarden's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWGarden&show_icons=true&theme=transparent)
+![KJWGarden's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWGarden&show_icons=true&theme=transparent&cache_seconds=3600)
 </div>
 
 
