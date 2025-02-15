@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 <picture>  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWGarden&show_icons=true&theme=transparent&cache_seconds=3600)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJWGarden&show_icons=true&theme=transparent)
 </picture>
 
 
