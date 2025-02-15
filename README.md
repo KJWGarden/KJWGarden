@@ -20,11 +20,4 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
-<div>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KJWGarden&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-</picture>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
