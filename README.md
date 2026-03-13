@@ -30,7 +30,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-467.30%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -50,21 +50,21 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               3 hrs 42 mins       ███████████████████░░░░░░   75.60 % 
-Bash                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+TypeScript               3 hrs 34 mins       ████████████████████░░░░░   80.31 % 
+Bash                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 에디터들: 
-Cursor                   4 hrs 53 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      4 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/03/2026 19:23:51 UTC
+ Last Updated on 13/03/2026 19:07:32 UTC
 <!--END_SECTION:waka-->
 
   
