@@ -25,41 +25,12 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-459.35%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
-**저는 저녁형 인간이에요. 🦉** 
 
-```text
-🌞 아침                     53 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-🌆 낮　                     48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-🌃 저녁                     162 commits         ███████████░░░░░░░░░░░░░░   43.43 % 
-🌙 밤　                     110 commits         ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-TypeScript               11 hrs 14 mins      ███████████████░░░░░░░░░░   60.24 % 
-Other                    4 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-
-🔥 에디터들: 
-Cursor                   18 hrs 39 mins      █████████████████████████   100.00 % 
-
-💻 운영 체제들: 
-Mac                      18 hrs 39 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 16/04/2026 19:44:41 UTC
+ Last Updated on 17/04/2026 19:37:30 UTC
 <!--END_SECTION:waka-->
 
   
