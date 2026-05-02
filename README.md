@@ -25,17 +25,17 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-479.23%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-489.48%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-🌆 낮　                     50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-🌃 저녁                     165 commits         ███████████░░░░░░░░░░░░░░   42.75 % 
-🌙 밤　                     117 commits         ████████░░░░░░░░░░░░░░░░░   30.31 % 
+🌞 아침                     54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+🌆 낮　                     50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+🌃 저녁                     170 commits         ███████████░░░░░░░░░░░░░░   43.37 % 
+🌙 밤　                     118 commits         ████████░░░░░░░░░░░░░░░░░   30.10 % 
 ```
 
 
@@ -45,22 +45,22 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               8 hrs 27 mins       █████████████████████░░░░   83.98 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+TypeScript               8 hrs 27 mins       █████████████████████░░░░   84.09 % 
+Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Image (png)              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 에디터들: 
-Cursor                   7 hrs 44 mins       ███████████████████░░░░░░   76.93 % 
-Unknown Editor           2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+Cursor                   6 hrs 33 mins       ████████████████░░░░░░░░░   65.22 % 
+Unknown Editor           3 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.78 % 
 
 💻 운영 체제들: 
 Mac                      10 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/05/2026 19:47:42 UTC
+ Last Updated on 02/05/2026 19:34:35 UTC
 <!--END_SECTION:waka-->
 
   
