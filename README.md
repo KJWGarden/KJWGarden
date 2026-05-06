@@ -45,22 +45,22 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               8 hrs 33 mins       ███████████████░░░░░░░░░░   58.63 % 
-Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+TypeScript               8 hrs 21 mins       ██████████████░░░░░░░░░░░   57.29 % 
+Other                    1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 Python                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Markdown                 1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 🔥 에디터들: 
-Cursor                   10 hrs 36 mins      ██████████████████░░░░░░░   72.63 % 
-Unknown Editor           3 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+Cursor                   10 hrs 48 mins      ███████████████████░░░░░░   74.06 % 
+Unknown Editor           3 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
 
 💻 운영 체제들: 
 Mac                      14 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/05/2026 19:57:25 UTC
+ Last Updated on 06/05/2026 20:09:29 UTC
 <!--END_SECTION:waka-->
 
   
