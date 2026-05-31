@@ -25,7 +25,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-504.24%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -45,24 +45,25 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               4 hrs 6 mins        ████████████████████░░░░░   81.29 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+TypeScript               4 hrs 30 mins       ██████████████████░░░░░░░   71.88 % 
+Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 에디터들: 
-Cursor                   2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   42.82 % 
-VS Code                  2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   42.76 % 
-Claude Code              43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Cursor                   2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.81 % 
+VS Code                  2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.27 % 
+Codex CLI                1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Claude Code              49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
 
 💻 운영 체제들: 
-Mac                      4 hrs 35 mins       ███████████████████████░░   90.62 % 
-Windows                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Mac                      5 hrs 48 mins       ███████████████████████░░   92.44 % 
+Windows                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 ```
 
 
- Last Updated on 30/05/2026 19:48:51 UTC
+ Last Updated on 31/05/2026 19:49:03 UTC
 <!--END_SECTION:waka-->
 
   
