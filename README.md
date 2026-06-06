@@ -25,7 +25,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-504.24%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -45,24 +45,24 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               4 hrs 32 mins       █████████████████████░░░░   84.45 % 
-Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               2 hrs 27 mins       ███████████████████████░░   91.83 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 에디터들: 
-Cursor                   2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.25 % 
-Codex CLI                1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-VS Code                  1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-Claude Code              37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Cursor                   1 hr 58 mins        ██████████████████░░░░░░░   73.78 % 
+Claude Code              24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+VS Code                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Codex CLI                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 💻 운영 체제들: 
-Mac                      5 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/06/2026 20:25:45 UTC
+ Last Updated on 06/06/2026 19:53:44 UTC
 <!--END_SECTION:waka-->
 
   
