@@ -27,33 +27,8 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-496.54%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
-**저는 저녁형 인간이에요. 🦉** 
 
-```text
-🌞 아침                     54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-🌆 낮　                     60 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-🌃 저녁                     156 commits         ██████████░░░░░░░░░░░░░░░   40.21 % 
-🌙 밤　                     118 commits         ████████░░░░░░░░░░░░░░░░░   30.41 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
-
-🔥 에디터들: 
-Claude Code              0 secs              █████████████████████████   100.00 % 
-
-💻 운영 체제들: 
-이번 주에 활동은 없어요.
-```
-
-
- Last Updated on 23/07/2026 19:55:46 UTC
+ Last Updated on 24/07/2026 19:55:11 UTC
 <!--END_SECTION:waka-->
 
   
