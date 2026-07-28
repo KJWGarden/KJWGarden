@@ -25,10 +25,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%2053%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%2026%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-496.54%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
@@ -47,43 +43,46 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               2 hrs               ████████████████████████░   97.31 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+TypeScript               6 hrs 2 mins        █████████████████░░░░░░░░   68.30 % 
+SQL                      1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 에디터들: 
-Claude Code              1 hr 28 mins        ██████████████████░░░░░░░   71.41 % 
-Cursor                   35 mins             ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+Claude Code              4 hrs 38 mins       █████████████░░░░░░░░░░░░   52.48 % 
+Cursor                   4 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.52 % 
 
 💻 운영 체제들: 
-Mac                      2 hrs 3 mins        █████████████████████████   100.00 % 
+Mac                      8 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 44 mins (84.52%)
+⏱ AI Coding Time: 7 hrs 56 mins (89.74%)
 
-✍️ 2,195 lines written by AI, 4 lines written by hand (99.82% AI-written)
+✍️ 14,791 lines written by AI, 26 lines written by hand (99.82% AI-written)
 
-🔤 45,546,512 Input Tokens, 142,205 Output Tokens
+🔤 160,725,702 Input Tokens, 389,126 Output Tokens
 
-💵 $230.48 Estimated AI Cost This Week
+💵 $812.44 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 16 AI Prompts
+🧠 8 AI Sessions, 106 AI Prompts
 
-Opus                     2,713 lines         █████████████████████████   100.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     7,612 lines         ████████████░░░░░░░░░░░░░   48.28 % 
+Grok                     5,245 lines         ████████░░░░░░░░░░░░░░░░░   33.27 % 
+Composer                 2,909 lines         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.82% of written lines came from AI
-📝 Concise Prompter — average 81 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 2.48% of changed lines were hand-edited
+📝 Concise Prompter — average 223 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 1.16% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 20:04:38 UTC
+ Last Updated on 28/07/2026 20:00:58 UTC
 <!--END_SECTION:waka-->
 
   
