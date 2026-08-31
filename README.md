@@ -47,47 +47,47 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               4 hrs 7 mins        ██████████████████░░░░░░░   72.28 % 
-Other                    1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-SQL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+TypeScript               5 hrs 13 mins       ██████████████████░░░░░░░   73.30 % 
+Other                    1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+SQL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 에디터들: 
-Claude Code              3 hrs 2 mins        █████████████░░░░░░░░░░░░   53.28 % 
-Agent                    2 hrs 25 mins       ███████████░░░░░░░░░░░░░░   42.52 % 
-Cursor                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Claude Code              3 hrs 52 mins       ██████████████░░░░░░░░░░░   54.18 % 
+Agent                    2 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   39.67 % 
+Cursor                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 
 💻 운영 체제들: 
-Mac                      5 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 35 mins (97.82%)
+⏱ AI Coding Time: 7 hrs (98.25%)
 
-✍️ 3,381 lines written by AI, 137 lines written by hand (96.11% AI-written)
+✍️ 3,234 lines written by AI, 168 lines written by hand (95.06% AI-written)
 
-🔤 1,487,506 Input Tokens, 520,820 Output Tokens
+🔤 1,706,438 Input Tokens, 575,249 Output Tokens
 
-💵 $41.42 Estimated AI Cost This Week
+💵 $50.04 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 183 AI Prompts
+🧠 33 AI Sessions, 218 AI Prompts
 
-Opus                     3,833 lines         ████████████████████████░   97.46 % 
+Opus                     3,836 lines         ████████████████████████░   97.46 % 
 Grok                     100 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.11% of written lines came from AI
-📚 Verbose Prompter — average 6,609 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 3.45% of changed lines were hand-edited
+🤖 AI-Driven — 95.06% of written lines came from AI
+📚 Verbose Prompter — average 5,379 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 4.2% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/08/2026 21:23:07 UTC
+ Last Updated on 31/08/2026 22:58:50 UTC
 <!--END_SECTION:waka-->
 
   
