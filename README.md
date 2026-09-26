@@ -25,9 +25,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-222%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-323.87%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -47,51 +47,51 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 14 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   39.87 % 
-TypeScript               10 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-Bash                     3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Other                    3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-SQL                      2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Markdown                 17 hrs 11 mins      ███████████░░░░░░░░░░░░░░   45.37 % 
+TypeScript               9 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+Bash                     3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Other                    2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+SQL                      1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🔥 에디터들: 
-Claude Code              17 hrs 57 mins      ████████████░░░░░░░░░░░░░   47.85 % 
-Agent                    14 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   39.02 % 
-Codex Exec               2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Cursor                   2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Claude Code              20 hrs 9 mins       █████████████░░░░░░░░░░░░   53.20 % 
+Agent                    11 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   30.84 % 
+Codex Exec               3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Cursor                   2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 운영 체제들: 
-Mac                      37 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 11 mins (99.12%)
+⏱ AI Coding Time: 37 hrs 37 mins (99.32%)
 
-✍️ 31,321 lines written by AI, 517 lines written by hand (98.38% AI-written)
+✍️ 35,968 lines written by AI, 872 lines written by hand (97.63% AI-written)
 
-🔤 21,782,516 Input Tokens, 4,319,175 Output Tokens
+🔤 25,731,077 Input Tokens, 3,441,927 Output Tokens
 
-💵 $415.73 Estimated AI Cost This Week
+💵 $457.06 Estimated AI Cost This Week
 
-🧠 169 AI Sessions, 1113 AI Prompts
+🧠 214 AI Sessions, 1083 AI Prompts
 
-Opus                     18,145 lines        ██████████████░░░░░░░░░░░   57.72 % 
-Sonnet                   13,224 lines        ███████████░░░░░░░░░░░░░░   42.07 % 
-Grok                     65 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Opus                     20,668 lines        ██████████████░░░░░░░░░░░   57.21 % 
+Sonnet                   14,528 lines        ██████████░░░░░░░░░░░░░░░   40.21 % 
+Grok                     932 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.38% of written lines came from AI
-📚 Verbose Prompter — average 11,637 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.87% of changed lines were hand-edited
+🤖 AI-Driven — 97.63% of written lines came from AI
+📚 Verbose Prompter — average 8,765 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 2.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 21:45:27 UTC
+ Last Updated on 26/09/2026 21:23:57 UTC
 <!--END_SECTION:waka-->
 
   
