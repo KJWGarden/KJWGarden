@@ -25,9 +25,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-244%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-246%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-359.62%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -47,50 +47,50 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 18 hrs 2 mins       ████████████░░░░░░░░░░░░░   46.24 % 
-TypeScript               8 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-YAML                     3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-JavaScript               2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Bash                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Markdown                 17 hrs 56 mins      ███████████░░░░░░░░░░░░░░   45.70 % 
+TypeScript               8 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+YAML                     3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+SQL                      2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+JavaScript               2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 
 🔥 에디터들: 
-Claude Code              28 hrs 11 mins      ██████████████████░░░░░░░   72.24 % 
-Agent                    4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Codex Exec               4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Cursor                   2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Claude Code              29 hrs 7 mins       ███████████████████░░░░░░   74.16 % 
+Codex Exec               4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Cursor                   3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Agent                    3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 💻 운영 체제들: 
-Mac                      39 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      39 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 14 mins (98.0%)
+⏱ AI Coding Time: 37 hrs 59 mins (96.76%)
 
-✍️ 51,562 lines written by AI, 1,385 lines written by hand (97.38% AI-written)
+✍️ 52,074 lines written by AI, 1,385 lines written by hand (97.41% AI-written)
 
-🔤 34,600,207 Input Tokens, 2,061,405 Output Tokens
+🔤 34,771,322 Input Tokens, 2,062,929 Output Tokens
 
-💵 $601.90 Estimated AI Cost This Week
+💵 $590.79 Estimated AI Cost This Week
 
-🧠 213 AI Sessions, 783 AI Prompts
+🧠 207 AI Sessions, 728 AI Prompts
 
-Sonnet                   26,970 lines        █████████████░░░░░░░░░░░░   52.02 % 
-Opus                     24,004 lines        ████████████░░░░░░░░░░░░░   46.30 % 
-Grok                     867 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Sonnet                   26,970 lines        █████████████░░░░░░░░░░░░   51.20 % 
+Opus                     24,836 lines        ████████████░░░░░░░░░░░░░   47.15 % 
+Grok                     867 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.38% of written lines came from AI
-📚 Verbose Prompter — average 6,614 characters per prompt
+🤖 AI-Driven — 97.41% of written lines came from AI
+📚 Verbose Prompter — average 6,791 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 2.78% of changed lines were hand-edited
+🚀 High AI Trust — 2.74% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/09/2026 22:31:15 UTC
+ Last Updated on 30/09/2026 22:29:21 UTC
 <!--END_SECTION:waka-->
 
   
