@@ -47,9 +47,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-591%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-593%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-262%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-359.62%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -69,50 +69,50 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-TypeScript               3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-SQL                      3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Bash                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Markdown                 5 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   35.95 % 
+TypeScript               2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+SQL                      2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+YAML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 🔥 에디터들: 
-Claude Code              14 hrs 15 mins      ████████████████████░░░░░   78.83 % 
-Cursor                   1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Codex Exec               1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Claude Code              13 hrs 5 mins       ████████████████████░░░░░   80.81 % 
+Codex Exec               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Cursor                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 운영 체제들: 
-Mac                      18 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      16 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 9 mins (89.36%)
+⏱ AI Coding Time: 14 hrs 46 mins (91.23%)
 
-✍️ 15,676 lines written by AI, 83 lines written by hand (99.47% AI-written)
+✍️ 14,961 lines written by AI, 82 lines written by hand (99.45% AI-written)
 
-🔤 13,531,567 Input Tokens, 1,044,119 Output Tokens
+🔤 12,709,143 Input Tokens, 890,956 Output Tokens
 
-💵 $175.92 Estimated AI Cost This Week
+💵 $165.74 Estimated AI Cost This Week
 
-🧠 75 AI Sessions, 233 AI Prompts
+🧠 69 AI Sessions, 215 AI Prompts
 
-Opus                     17,674 lines        █████████████████████████   99.57 % 
-Sonnet                   76 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Opus                     16,639 lines        █████████████████████████   99.55 % 
+Sonnet                   76 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.47% of written lines came from AI
-📚 Verbose Prompter — average 6,571 characters per prompt
+🤖 AI-Driven — 99.45% of written lines came from AI
+📚 Verbose Prompter — average 6,682 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.88% of changed lines were hand-edited
+🚀 High AI Trust — 3.04% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 22:44:43 UTC
+ Last Updated on 07/10/2026 23:15:12 UTC
 <!--END_SECTION:waka-->
 
   
